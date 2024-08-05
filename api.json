@@ -222,7 +222,7 @@
     "data": {
       "description": "📧 Never end in spam with the world's most comprehensive email deliverability checklist",
       "stars": 14,
-      "issues": 1,
+      "issues": 2,
       "forks": 0,
       "watchers": 14,
       "topics": [
@@ -1153,10 +1153,10 @@
     "source": "https://github.com/pabio/redirect-russia",
     "data": {
       "description": "🇺🇦 Redirect Russian traffic from your site to support Ukraine",
-      "stars": 101,
+      "stars": 100,
       "issues": 4,
       "forks": 17,
-      "watchers": 101,
+      "watchers": 100,
       "topics": [
         "help-ukraine",
         "javascript",
@@ -1876,10 +1876,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 15007,
+      "stars": 15027,
       "issues": 85,
-      "forks": 846,
-      "watchers": 15007,
+      "forks": 847,
+      "watchers": 15027,
       "topics": [
         "incidents-reports",
         "status",
@@ -2073,7 +2073,7 @@
       ],
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/e2203ca504070413a100b3f41f035c7fcc2b23f6726c6ed68e0b8b3b8c8bc92c/AnandChowdhary/docs-markdown"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/26574d2148dbe9885aab9f088f2f1ceb5caa0152113bb5e61d08209958d11fe8/AnandChowdhary/docs-markdown"
     }
   },
   {
@@ -2729,10 +2729,10 @@
     "source": "https://github.com/AnandChowdhary/gitwriter",
     "data": {
       "description": "📝 Version control your thoughts",
-      "stars": 15,
+      "stars": 16,
       "issues": 3,
       "forks": 1,
-      "watchers": 15,
+      "watchers": 16,
       "topics": [
         "app",
         "git",
@@ -2799,10 +2799,10 @@
     "source": "https://github.com/AnandChowdhary/changebar",
     "data": {
       "description": "🔔 Changelog notifications widget for the web, powered by GitHub",
-      "stars": 6,
+      "stars": 7,
       "issues": 5,
       "forks": 1,
-      "watchers": 6,
+      "watchers": 7,
       "topics": [
         "changelog",
         "notifications",
@@ -2837,10 +2837,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 343,
-      "issues": 9,
-      "forks": 69,
-      "watchers": 343,
+      "stars": 393,
+      "issues": 7,
+      "forks": 70,
+      "watchers": 393,
       "topics": [
         "calendar",
         "calendar-link",
@@ -2852,7 +2852,7 @@
       ],
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/cf338e0752f260d5aa92ab5792c28c83a09c01e4321dc1ca419b71165135d62e/AnandChowdhary/calendar-link"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/e0dd5d30946217048e01191d453be5ea4dec8202f09f85a9cf265510bbc0e234/AnandChowdhary/calendar-link"
     }
   },
   {
@@ -2909,10 +2909,10 @@
     "source": "https://github.com/AnandChowdhary/hello-bar",
     "data": {
       "description": "👋 Greet your visitors with a hello bar",
-      "stars": 72,
+      "stars": 73,
       "issues": 6,
       "forks": 10,
-      "watchers": 72,
+      "watchers": 73,
       "topics": [
         "engagement",
         "hellobar",
@@ -3413,10 +3413,10 @@
     "source": "https://github.com/elninotech/uppload",
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
-      "stars": 1828,
+      "stars": 1830,
       "issues": 47,
       "forks": 129,
-      "watchers": 1828,
+      "watchers": 1830,
       "topics": [
         "file-upload",
         "image",
