@@ -260,7 +260,7 @@
       "description": "📧 Never end in spam with the world's most comprehensive email deliverability checklist",
       "stars": 14,
       "issues": 2,
-      "forks": 1,
+      "forks": 2,
       "watchers": 14,
       "topics": [
         "deliverability",
@@ -1913,10 +1913,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 15338,
+      "stars": 15376,
       "issues": 92,
-      "forks": 867,
-      "watchers": 15338,
+      "forks": 870,
+      "watchers": 15376,
       "topics": [
         "incidents-reports",
         "status",
@@ -2725,7 +2725,7 @@
       ],
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/953c649aa26e179699e11a403faa293f3cea3c7a9ae33e07b6b4f76c8a345881/AnandChowdhary/auto-i18n"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/3f99f910dfcf522321cd3bad15f903f0b3ce4dafe845a5a3797ce8d248575f8d/AnandChowdhary/auto-i18n"
     }
   },
   {
@@ -2874,10 +2874,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 513,
-      "issues": 4,
+      "stars": 531,
+      "issues": 6,
       "forks": 70,
-      "watchers": 513,
+      "watchers": 531,
       "topics": [
         "calendar",
         "calendar-link",
@@ -2889,7 +2889,7 @@
       ],
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/4bbfac340a979be7d3cd975b9b989c0b74d60430a3933b44171286b595107d3d/AnandChowdhary/calendar-link"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/3cc8b407025cafaa08a5b757b2bc5ac399ac3016bfc761dd453d10cd1bac15ac/AnandChowdhary/calendar-link"
     }
   },
   {
